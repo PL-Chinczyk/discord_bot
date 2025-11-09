@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Authorization Success Redirect</title>
+
+    <meta http-equiv="refresh" content="0; url=https://discord.gg/your-invite-link" />
+</head>
+<body>
+    <div style="text-align: center; padding-top: 50px; font-family: sans-serif;">
+        <h1>Redirecting...</h1>
+        <p>If you are not redirected automatically, please click the link below:</p>
+        
+        <p><a href="https://discord.gg/your-invite-link">Continue to the Destination</a></p>
+    </div>
+</body>
+</html>
